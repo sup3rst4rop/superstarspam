@@ -10,6 +10,11 @@
 
 </h1>
 
+<b>NOTE:-</b> <h1 align=center>
+<b>DO NOT USE RAID OR REPLYRAID CMD AFTER DEPLOYING BECAUSE TELEGRAM IS BANNING ACCOUNT FOR THIS THANK YOU.</b>
+  
+  </h1>
+
 <p align="center">
 
   <img src=https://te.legra.ph/file/50cea9231fabf384c09e9.jpg>
